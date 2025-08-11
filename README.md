@@ -6,8 +6,7 @@
 </div>
 
 <h3 align="center">
-🚀 DevOps Engineer with 4+ years of experience automating, scaling, and optimizing cloud-native infrastructure.  
-Specialized in AWS, Kubernetes, Terraform, Jenkins, and DevSecOps to deliver secure, high-performance solutions.
+🚀 Cloud & DevOps Engineer passionate about AWS, automation, and CI/CD.
 </h3>
 
 <p align="center">
