@@ -1,18 +1,25 @@
-<h1 align="center">Hey Everyone 👋, I'm Revathi Jaya</h1>
+<h1 align="center">👋 Hey Everyone, I'm Revathi Jaya</h1>
+<h3 align="center">AWS & DevOps Engineer | Cloud Automation Specialist | CI/CD Enthusiast</h3>
 
 <div align="center">
   <img src="https://github.com/JayaRevathi/JayaRevathi/blob/main/Banner.png" alt="AWS DevOps Engineer Banner">
 </div>
 
 <h3 align="center">
-Cloud & DevOps Engineer passionate about AWS, automation, and AI, with hands-on experience in building scalable and secure solutions.
+🚀 DevOps Engineer with 4+ years of experience automating, scaling, and optimizing cloud-native infrastructure.  
+Specialized in AWS, Kubernetes, Terraform, Jenkins, and DevSecOps to deliver secure, high-performance solutions.
 </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/revathi-jaya/">
     <img src="https://img.shields.io/badge/LinkedIn-Revathi%20Jaya-blue?logo=linkedin&style=flat-square" />
   </a>
+  <a href="mailto:jrevathi1927@gmail.com">
+    <img src="https://img.shields.io/badge/Email-jrevathi1927%40gmail.com-red?logo=gmail&style=flat-square" />
+  </a>
 </p>
+
+---
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
@@ -20,15 +27,15 @@ Cloud & DevOps Engineer passionate about AWS, automation, and AI, with hands-on 
   <img src="https://komarev.com/ghpvc/?username=JayaRevathi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/JayaRevathi?tab=repositories] 
-- 💬 Ask me about **DevOps & Cloud DevOps**  
-- 📫 How to reach me ** jrevathi1927@gmail.com**
+- 👨‍💻 All of my projects are available at [My GitHub Repositories](https://github.com/JayaRevathi?tab=repositories)  
+- 💬 Ask me about **DevOps & Cloud Automation**  
+- 📫 How to reach me **jrevathi1927@gmail.com**
 
 ---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="linkedin.com/in/revathi-jaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/revathi-jaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
   <a href="https://instagram.com/revthi_jaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 </p>
 
@@ -54,31 +61,52 @@ Cloud & DevOps Engineer passionate about AWS, automation, and AI, with hands-on 
   <img src="https://www.vectorlogo.zone/logos/sonarsource/sonarsource-icon.svg" width="40" height="40"/>
 </p>
 
+---
 
 ## 🛠️ Skills & Tools
 
-- AWS (EC2, Lambda, S3, CloudFormation)
-- Docker & Kubernetes
-- Terraform & Ansible
-- Jenkins & GitHub Actions
-- Python & SQL
-- Monitoring: CloudWatch, Prometheus, Grafana
-- Agile & DevOps Practices
-
-
-
+- **Cloud:** AWS (EC2, Lambda, EKS, Fargate, CloudFormation, CDK), Azure  
+- **Containers & Orchestration:** Docker, Kubernetes, Docker Swarm  
+- **IaC & Automation:** Terraform, Ansible, Pulumi  
+- **CI/CD:** Jenkins, GitHub Actions, GitLab CI, Bitbucket Pipelines  
+- **Monitoring & Logging:** Grafana, Prometheus, ELK Stack, Dynatrace, CloudWatch  
+- **Languages & Scripting:** Python, Bash, PowerShell, YAML, Ruby  
+- **Version Control & DB:** Git, GitHub, Bitbucket, SVN, MySQL, DynamoDB, MongoDB
 
 ---
-### 🔥 GitHub Contribution Streak
 
-![GitHub Streak Badge](https://img.shields.io/badge/GitHub%20Streak-Active-brightgreen?logo=github&style=for-the-badge)
+## 🚀 Featured Projects
+
+- **Swiggy DevOps Pipeline** – Automated CI/CD pipeline with Jenkins, Docker, SonarQube, and Terraform on AWS.  
+- **Kubernetes EKS Deployment** – GitOps workflow with ArgoCD for scalable microservices on AWS EKS.  
+- **Serverless Real-Time Data App** – Designed serverless architecture using AWS Lambda, API Gateway, and DynamoDB.  
+
+🔗 [View More Projects](https://github.com/JayaRevathi?tab=repositories)
+
+---
+
+## 🎓 Certifications
+
+- AWS Certified Cloud Practitioner  
+- AWS Certified SysOps Administrator
+
+---
+
+### 🔥 GitHub Stats & Streaks
+
+<div align="center">
+
+![Revathi's GitHub stats](https://github-readme-stats.vercel.app/api?username=JayaRevathi&show_icons=true&theme=radical&count_private=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JayaRevathi&layout=compact&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com?user=JayaRevathi&theme=radical&hide_border=true)
+
+</div>
 
 ---
 
 ### 👩‍💻 About Me & 🤝 Open to Collaborations  
 
 🤝 Open to **Project Collaborations**  
-📧 Let’s connect: [jrevathi1927@gmail.com](mailto: jrevathi1927@gmail.com)  
+📧 Let’s connect: [jrevathi1927@gmail.com](mailto:jrevathi1927@gmail.com)  
 
 > *"Passionate about AWS, automation, and AI — building scalable, secure, and efficient solutions to shape the future of technology."*
-
