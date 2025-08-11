@@ -70,18 +70,8 @@ Specialized in AWS, Kubernetes, Terraform, Jenkins, and DevSecOps to deliver sec
 - **IaC & Automation:** Terraform, Ansible, Pulumi  
 - **CI/CD:** Jenkins, GitHub Actions, GitLab CI, Bitbucket Pipelines  
 - **Monitoring & Logging:** Grafana, Prometheus, ELK Stack, Dynatrace, CloudWatch  
-- **Languages & Scripting:** Python, Bash, PowerShell, YAML, Ruby  
+- **Languages & Scripting:** Python, Bash, PowerShell, YAML 
 - **Version Control & DB:** Git, GitHub, Bitbucket, SVN, MySQL, DynamoDB, MongoDB
-
----
-
-## 🚀 Featured Projects
-
-- **Swiggy DevOps Pipeline** – Automated CI/CD pipeline with Jenkins, Docker, SonarQube, and Terraform on AWS.  
-- **Kubernetes EKS Deployment** – GitOps workflow with ArgoCD for scalable microservices on AWS EKS.  
-- **Serverless Real-Time Data App** – Designed serverless architecture using AWS Lambda, API Gateway, and DynamoDB.  
-
-🔗 [View More Projects](https://github.com/JayaRevathi?tab=repositories)
 
 ---
 
@@ -89,18 +79,6 @@ Specialized in AWS, Kubernetes, Terraform, Jenkins, and DevSecOps to deliver sec
 
 - AWS Certified Cloud Practitioner  
 - AWS Certified SysOps Administrator
-
----
-
-### 🔥 GitHub Stats & Streaks
-
-<div align="center">
-
-![Revathi's GitHub stats](https://github-readme-stats.vercel.app/api?username=JayaRevathi&show_icons=true&theme=radical&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JayaRevathi&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com?user=JayaRevathi&theme=radical&hide_border=true)
-
-</div>
 
 ---
 
