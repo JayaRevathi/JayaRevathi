@@ -51,12 +51,14 @@ Cloud & DevOps Engineer passionate about AWS, automation, and AI, with hands-on 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/sonarsource/sonarsource-icon.svg" width="40" height="40"/>
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaiswaladi246&show_icons=true&locale=en&layout=compact&theme=vue&hide_border=true" alt="Top Langs" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JayaRevathi&show_icons=true&locale=en&layout=compact&theme=vue&hide_border=true" alt="Top Langs" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaiswaladi246&show_icons=true&locale=en&theme=vue&hide_border=true" alt="GitHub Stats" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JayaRevathi&show_icons=true&locale=en&theme=vue&hide_border=true" alt="GitHub Stats" /></p>
+
 
 ---
 ### 🔥 GitHub Contribution Streak
