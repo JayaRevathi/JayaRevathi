@@ -55,17 +55,16 @@ Cloud & DevOps Engineer passionate about AWS, automation, and AI, with hands-on 
 </p>
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JayaRevathi&show_icons=true&count_private=true&theme=radical" alt="JayaRevathi's GitHub Stats" />
-</p>
+## 🛠️ Skills & Tools
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayaRevathi&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+- AWS (EC2, Lambda, S3, CloudFormation)
+- Docker & Kubernetes
+- Terraform & Ansible
+- Jenkins & GitHub Actions
+- Python & SQL
+- Monitoring: CloudWatch, Prometheus, Grafana
+- Agile & DevOps Practices
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JayaRevathi&theme=dark" alt="GitHub Streak" />
-</p>
 
 
 
