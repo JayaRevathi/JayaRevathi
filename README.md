@@ -55,9 +55,18 @@ Cloud & DevOps Engineer passionate about AWS, automation, and AI, with hands-on 
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JayaRevathi&show_icons=true&locale=en&layout=compact&theme=vue&hide_border=true" alt="Top Langs" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JayaRevathi&show_icons=true&count_private=true&theme=radical" alt="JayaRevathi's GitHub Stats" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JayaRevathi&show_icons=true&locale=en&theme=vue&hide_border=true" alt="GitHub Stats" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayaRevathi&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JayaRevathi&theme=dark" alt="GitHub Streak" />
+</p>
+
 
 
 ---
